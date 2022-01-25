@@ -1,0 +1,100 @@
+{
+    "headers": [
+        {
+          "paralaxImage": {
+            "url": "https://preview.colorlib.com/theme/podca/images/xhero_bg_1.jpg.pagespeed.ic.EJCcE-mhd6.webp"
+          },
+          "atas": {
+            "logo": {
+              "text": "Podca",
+              "url": "https://preview.colorlib.com/theme/podca/index.html"
+            },
+            "navbar": {
+              "icon": "icon-menu",
+              "url": "https://preview.colorlib.com/theme/podca/index.html",
+              "attr": {
+                "closeButton": {
+                  "icon": "icon-button"
+                },
+                "menu": [
+                  {
+                    "text": "HOME",
+                    "url": "https://preview.colorlib.com/theme/podca/index.html",
+                    "icon-right": "arrow up",
+                    "subMenu": [
+                      {
+                        "text": "Menu One",
+                        "url": "https://preview.colorlib.com/theme/podca/index.html"
+                      },
+                      {
+                        "text": "Menu Two",
+                        "url": "https://preview.colorlib.com/theme/podca/index.html"
+                      },
+                      {
+                        "text": "Menu Three",
+                        "url": "https://preview.colorlib.com/theme/podca/index.html"
+                      },
+                      {
+                        "text": "Sub Menu",
+                        "url": "https://preview.colorlib.com/theme/podca/index.html",
+                        "icon-right": "arrow up",
+                        "subMenu": [
+                          {
+                            "text": "Menu One",
+                            "url": "https://preview.colorlib.com/theme/podca/index.html"
+                          },
+                          {
+                            "text": "Menu Two",
+                            "url": "https://preview.colorlib.com/theme/podca/index.html"
+                          },
+                          {
+                            "text": "Menu Three",
+                            "url": "https://preview.colorlib.com/theme/podca/index.html"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "DropDown",
+                    "url": "https://preview.colorlib.com/theme/podca/index.html",
+                    "icon-right": "arrow up",
+                    "subMenu": [
+                      {
+                        "text": "Menu One",
+                        "url": "https://preview.colorlib.com/theme/podca/index.html"
+                      },
+                      {
+                        "text": "Menu Two",
+                        "url": "https://preview.colorlib.com/theme/podca/index.html"
+                      },
+                      {
+                        "text": "Menu Three",
+                        "url": "https://preview.colorlib.com/theme/podca/index.html"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "About",
+                    "url": "https://preview.colorlib.com/theme/podca/index.html"
+                  },
+                  {
+                    "text": "About",
+                    "url": "https://preview.colorlib.com/theme/podca/index.html"
+                  },
+                  {
+                    "text": "Contact",
+                    "url": "https://preview.colorlib.com/theme/podca/index.html"
+                  }
+                ]
+              }
+            }
+          },
+          "jumbotron": {
+            "title": "About Us"
+            },
+            "pictbg":"images/xhero_bg_2.jpg.pagespeed.ic.A2K8wWUaul.webp"
+        }
+        
+    ]
+}
